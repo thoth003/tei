@@ -7,7 +7,7 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é “Inteligência Artificial Aplicada ao Desenvolvimento de Mecanismos de Comunicação Verbal e não Verbal para pessoas com TEA”.
+1. A área da Engenharia de Software tratada neste trabalho é “*Inteligência Artificial Aplicada ao Desenvolvimento de Mecanismos de Comunicação Verbal e não Verbal para pessoas com TEA*”.
 2. O problema que este trabalho busca resolver nessa área é: “*Como os mecanismos de Inteligência Artificial personalizada com Machine Learning podem melhorar a comunicação e a interação social de indivíduos com Transtorno do Espectro Autista (TEA)?*”
 3. Resolver este problema é relevante porque a utilização dos sistemas de IA com Machine Learning podem auxiliar no desenvolvimento dos indivíduos portadores do Transtorno do Espectro Autista (TEA), o que garante uma progressão da comunicação verbal, do desenvolvimento interpessoal, intelectual e social dos indivíduos com TEA em sociedade.
 4. O objetivo geral deste trabalho é: “*analisar e caracterizar os mecanismos de IA personalizados com Machine Learning que podem auxiliar na comunicação verbal e não verbal e no desenvolvimento dos indivíduos com transtorno de espectro autista”.*
