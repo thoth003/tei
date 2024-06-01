@@ -34,7 +34,7 @@
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é "qualitativa", por dar relevância a aspectos peculiares e abordar em profundidade esses aspectos nos mecanismos de IA desenvolvidos para auxiliar na comunicação alternativa , e também é e "estudo de caso", pois ela trata da descrição e análise dos resultados obtidos na pesquisa estudada neste trabalho.
+1. O tipo de pesquisa adotado neste trabalho é "qualitativa", por dar relevância a aspectos peculiares e abordar em profundidade esses aspectos nos mecanismos de IA desenvolvidos para auxiliar na comunicação alternativa , e também é "estudo de caso", pois ela trata da descrição e análise dos resultados obtidos na pesquisa estudada neste trabalho.
  
 2. Os materiais utilizados neste trabalho são: a) dados sobre inteligência artificial disponibilizados nos trabalhos em estudo, b) dados de Machine Learning coletados nas pesquisas em estudo e, c) dados Públicos sobre Autismo e pessoas com TEA.
    
