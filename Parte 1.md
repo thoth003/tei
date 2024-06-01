@@ -37,16 +37,16 @@ Os objetivos específicos são:
 
 # Materiais e Métodos
 
-As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
+- As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
 
-Dados sobre inteligência artificial disponibilizados nos trabalhos em estudo. 
+- Dados sobre inteligência artificial disponibilizados nos trabalhos em estudo. 
 
-Dados de Machine Learning coletados nas pesquisas em estudo. 
+- Dados de Machine Learning coletados nas pesquisas em estudo. 
 
-Dados Públicos sobre Autismo e pessoas com TEA. 
+- Dados Públicos sobre Autismo e pessoas com TEA. 
 
 Método de amostragem
 
-Teste de usabilidade e avaliação da experiência do usuário para medir a eficácia da interação entre o indivíduo com TEA e o sistema de inteligência artificial personalizado.
+- Teste de usabilidade e avaliação da experiência do usuário para medir a eficácia da interação entre o indivíduo com TEA e o sistema de inteligência artificial personalizado.
 
-A funcionalidade do sistema é medida por exatidão, precisão, recall, medida F e tempo de resposta.
+- A funcionalidade do sistema é medida por exatidão, precisão, recall, medida F e tempo de resposta.
