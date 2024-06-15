@@ -1,4 +1,4 @@
-### **Questionário para Pesquisa**
+### **Questionário para Pesquisa - aplicativo "X" **
 
 **1. Informações Demográficas:** 
 
@@ -48,7 +48,7 @@ Você encontrou algum problema técnico ou bug no aplicativo? Se sim, descreva.
 
 **6. Satisfação Geral e Recomendações:** 
 
-Você recomendaria o aplicativo Michelzinho para outras crianças com TEA? Por quê? 
+Você recomendaria o aplicativo para outras crianças com TEA? Por quê? 
 
 **7. Informações Adicionais:** 
 
