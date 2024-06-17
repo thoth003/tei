@@ -15,7 +15,7 @@
 
 4. O objetivo geral deste trabalho é: “*analisar e caracterizar os mecanismos de IA personalizados com Machine Learning que podem auxiliar na comunicação verbal e não verbal e no desenvolvimento dos indivíduos com transtorno de espectro autista”.*
 
-5. Os três objetivos específicos deste trabalho são: (1)Definir e caracterizar as limitações vivenciadas pelos indivíduos com TEA. (2) Avaliar quais técnicas de IA personalizadas com Machine Learning podem ser aplicadas para identificar padrões de dados de comunicação verbal e não verbal de indivíduos com autismo.  (3) Coletar dados de aplicativos desenvolvidos para auxiliar na comunicação não verbal de indivíduos com autismo para obtenção de valores para as métricas da efetividade da comunicação não verbal para indivíduos com TEA por meio da ferramenta App Store.
+5. Os três objetivos específicos deste trabalho são: (1)Definir e caracterizar as limitações vivenciadas pelos indivíduos com TEA. (2) Avaliar quais técnicas de IA personalizadas com Machine Learning podem ser aplicadas para identificar padrões de dados de comunicação verbal e não verbal de indivíduos com autismo.  (3) Coletar dados de aplicativos desenvolvidos para auxiliar na comunicação não verbal de indivíduos com autismo para obtenção de valores para as métricas da efetividade da comunicação não verbal para indivíduos com TEA por meio da ferramentas do Google Play e  App Store.
 
 ## Fundamentação Teórica
 
