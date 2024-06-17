@@ -21,8 +21,7 @@ Os objetivos específicos são:
 
 2. Avaliar quais técnicas de IA personalizadas com Machine Learning podem ser aplicadas para identificar padrões de dados de comunicação verbal e não verbal de indivíduos com autismo. 
 
-3. Coletar dados de aplicativos desenvolvidos para auxiliar na comunicação não verbal de indivíduos com autismo para obtenção de valores para as métricas da efetividade da comunicação não verbal para indivíduos com TEA por meio da ferramenta App Store. 
-
+3. Coletar dados de aplicativos desenvolvidos para auxiliar na comunicação não verbal de indivíduos com autismo para obtenção de valores para as métricas da efetividade da comunicação não verbal para indivíduos com TEA por meio das ferramentas Google Play e App Store. 
 # Materiais e Métodos
 
 
