@@ -31,6 +31,8 @@ As ferramentas, dados, métricas, forma de amostragem, análise estatística sã
 
 * Aplicativos disponíveis no Google Play e App Store voltados ao desenvolvimento da comunicação verbal e não verbal.
 
-* Aplicação de questionários estruturados e *surveys* (definido conforme o trabalho (https://gestrado.net.br/verbetes/survey/). A efetividade dos aplicativos é analisada por meio de estatística descritiva, análise de correlação e regressão. 
+* Aplicação de questionários estruturados e *surveys* (definido conforme o trabalho (https://gestrado.net.br/verbetes/survey/).
+
+* A efetividade dos aplicativos é analisada por meio de estatística descritiva, análise de correlação e regressão. 
 
 * A usabilidade e satisfação do usuário é medida pelo número de downloads, avaliação média dos usuários, número de bugs/incidentes reportados e *Net Promoter Score - NPS* (https://fia.com.br/blog/net-promoter-score-nps/). 
